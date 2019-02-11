@@ -1,0 +1,8 @@
+- React-native init nomeprojeto
+- yarn add react-navigation
+- Yarn add react-native-gesture-handler
+- React-native link react-native-gesture-handler (Linka codigo da biblioteca no código nativo (alterações))
+- React-native run-ios (Depois de linear precisa rodar o run-ios novamente para reinstalar a bagaças)
+- Yarn add react-native-vector-icons -> icons
+- Yarn add axios
+- yarn add socket.io-client
